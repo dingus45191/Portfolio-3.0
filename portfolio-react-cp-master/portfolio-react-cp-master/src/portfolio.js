@@ -14,8 +14,7 @@ const greeting = {
   subTitle: emoji(
     "Software Engineer who mainly develops React web apps and React Native mobile apps."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+  resumeLink: "",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
